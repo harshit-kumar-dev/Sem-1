@@ -1,4 +1,3 @@
-5
 var num1=27;
 var num2=17;
 var num3=9;

@@ -1,4 +1,3 @@
-1
 var maths=96;
 var science =89;
 var english=90;
